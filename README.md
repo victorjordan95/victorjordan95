@@ -1,16 +1,18 @@
-### Hi there 👋
+# Victor Jordan
 
-<!--
-**victorjordan95/victorjordan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorjordan95)](https://github.com/victorjordan95)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorjordan95/)](https://www.linkedin.com/in/victorjordan95/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjordan95@gmail.com)](mailto:victorjordan95@gmail.com)
 
-Here are some ideas to get you started:
+### Hey! 👋 Welcome to my profile
+I'm a front-end developer, graduated in Associate Degree in Database Administration, currently working with Angular and React at Accenture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 Main skills:
+- Javascript frameworks (React, Angular 2+, AngularJS)
+- Javascript, Typescript
+- HTML5
+- CSS (Styled Components, Sass, Less)
+- API with REST, GraphQL
+- Gatsby 
+
+✏ Writing tips about back and front-end development [Back&Front](www.backefront.com.br)
