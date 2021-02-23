@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjordan95@gmail.com)](mailto:victorjordan95@gmail.com)
 
 ### Hey! 👋 Welcome to my profile
-I'm a front-end developer, graduated in Associate Degree in Database Administration, currently working with Angular and React at Accenture
+I'm a Front-End Engineer, Software engineering postgraduate by PUC-MG, currently working with React and React Native at FITec!
 
 👨🏻‍💻 Main skills:
 - Javascript frameworks (React, Angular 2+, AngularJS)
