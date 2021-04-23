@@ -8,11 +8,11 @@
 I'm a Front-End Engineer, Software engineering postgraduate by PUC-MG, currently working with React and React Native at FITec!
 
 👨🏻‍💻 Main skills:
-- Javascript frameworks (React, Angular 2+, AngularJS)
+- Javascript frameworks (React, React Native, Angular)
 - Javascript, Typescript
 - HTML5
 - CSS (Styled Components, Sass, Less)
-- API with REST, GraphQL
+- REST, GraphQL
 - Gatsby 
 
 ✏ Writing tips about back and front-end development [Back&Front](www.backefront.com.br)
